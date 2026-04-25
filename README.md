@@ -1,5 +1,6 @@
 #### ✅ My latest pull requests
 
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker/pull/937) - refactor(php): remove unnecessary opcache.preload_user overwrite
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle/pull/1744) - [make:validator] Add `--target` option that allows restricting automatically where the constraint class can be used
 - [symfony/symfony](https://github.com/symfony/symfony/pull/62373) - [Security][SecurityBundle] Add `access_token.default_roles` option that allows overwriting user's default roles
 - [symfony/symfony](https://github.com/symfony/symfony/pull/62165) - [FrameworkBundle][Mailer] Add `recipient_fetcher` option that allows fetching global recipients from a service
