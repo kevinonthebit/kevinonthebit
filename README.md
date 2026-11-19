@@ -1,10 +1,10 @@
 #### Pull requests
 
-- [symfony/symfony](https://github.com/symfony/symfony/pull/68263) - [Mailer] Add the `headers.Subject.expression` option to globally prefix/suffix the `Subject` header
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker/pull/937) - refactor(php): remove unnecessary opcache.preload_user overwrite
-- [symfony/maker-bundle](https://github.com/symfony/maker-bundle/pull/1744) - [make:validator] Add `--target` option that allows restricting automatically where the constraint class can be used
-- [symfony/symfony](https://github.com/symfony/symfony/pull/62373) - [Security][SecurityBundle] Add `access_token.default_roles` option that allows overwriting user's default roles
-- [symfony/symfony](https://github.com/symfony/symfony/pull/62165) - [FrameworkBundle][Mailer] Add `recipient_fetcher` option that allows fetching global recipients from a service
-- [beberlei/DoctrineExtensions](https://github.com/beberlei/DoctrineExtensions/pull/458) - feat(oracle): JARO_WINKLER_SIMILARITY function
-- [beberlei/DoctrineExtensions](https://github.com/beberlei/DoctrineExtensions/pull/455) - feat(oracle): NVL2 function
-- [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord/pull/2414) - feat(template): set a checkbox
+- ![Open pull request](/open.svg) [symfony/symfony](https://github.com/symfony/symfony/pull/68263) - [Mailer] Add the `headers.Subject.expression` option to globally prefix/suffix the `Subject` header
+- ![Merged pull request](/merged.svg) [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker/pull/937) - refactor(php): remove unnecessary opcache.preload_user overwrite
+- ![Open pull request](/open.svg) [symfony/maker-bundle](https://github.com/symfony/maker-bundle/pull/1744) - [make:validator] Add `--target` option that allows restricting automatically where the constraint class can be used
+- ![Closed pull request](/closed.svg) [symfony/symfony](https://github.com/symfony/symfony/pull/62373) - [Security][SecurityBundle] Add `access_token.default_roles` option that allows overwriting user's default roles
+- ![Closed pull request](/closed.svg) [symfony/symfony](https://github.com/symfony/symfony/pull/62165) - [FrameworkBundle][Mailer] Add `recipient_fetcher` option that allows fetching global recipients from a service
+- ![Open pull request](/open.svg) [beberlei/DoctrineExtensions](https://github.com/beberlei/DoctrineExtensions/pull/458) - feat(oracle): JARO_WINKLER_SIMILARITY function
+- ![Open pull request](/open.svg) [beberlei/DoctrineExtensions](https://github.com/beberlei/DoctrineExtensions/pull/455) - feat(oracle): NVL2 function
+- ![Merged pull request](/merged.svg) [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord/pull/2414) - feat(template): set a checkbox
